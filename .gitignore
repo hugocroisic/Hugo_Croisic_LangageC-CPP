@@ -1,0 +1,20 @@
+﻿# Builds & binaires
+/build/
+/out/
+/dist/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.lib
+
+# IDE
+.vscode/ipch/
+
+# Caches & datasets
+.cache/
+__pycache__/
+*.th
+*.pt
+*.ckpt
